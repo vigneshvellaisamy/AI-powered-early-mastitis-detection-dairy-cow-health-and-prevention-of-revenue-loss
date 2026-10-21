@@ -1,0 +1,2 @@
+# AI-powered-early-mastitis-detection-dairy-cow-health-and-prevention-of-revenue-loss
+The AI-Powered Early Mastitis Detection System helps dairy farmers identify mastitis in cows at an early stage by analyzing milk quality, health records, and sensor data. It generates early risk alerts, supports timely veterinary care, monitors cow health, and helps reduce milk production losses and protect farmers’ revenue.
